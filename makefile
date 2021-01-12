@@ -4,4 +4,8 @@ compile_latex: jiwoolee-resume.tex
 	pdflatex jiwoolee-resume.tex 
 
 clean: 
-	rm -v !("jiwoolee-resume.tex"|"jiwoolee-resume.pdf"|"backup.tex") 
+	rm jiwoolee-resume.aux
+	# rm jiwoolee-resume.fdb_latexmk
+	# rm jiwoolee-resume.fls 
+	rm jiwoolee-resume.log
+	rm jiwoolee-resume.out
