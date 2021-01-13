@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1610539629 "/Users/jiwoolee/Desktop/resume/jiwoolee-resume.tex" "/Users/jiwoolee/Desktop/resume/jiwoolee-resume.pdf" "jiwoolee-resume" 1610539630
-  "/Users/jiwoolee/Desktop/resume/jiwoolee-resume.aux" 1610539630 1254 74134e2232be89288cfcaf30906f16ba ""
-  "/Users/jiwoolee/Desktop/resume/jiwoolee-resume.tex" 1610539628 11761 debaa8bfa2f4e637ccaacce925fba1b4 ""
+["pdflatex"] 1610539665 "/Users/jiwoolee/Desktop/resume/backup.tex" "/Users/jiwoolee/Desktop/resume/backup.pdf" "backup" 1610539666
+  "/Users/jiwoolee/Desktop/resume/backup.aux" 1610539666 1254 74134e2232be89288cfcaf30906f16ba ""
+  "/Users/jiwoolee/Desktop/resume/backup.tex" 1610539664 11761 debaa8bfa2f4e637ccaacce925fba1b4 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -91,13 +91,13 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1579026595 4737584 3f4bf6d6e2f1e55e9c9b45f47ad82bf6 ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1579030084 4294507 4281dffbc99b549c416402b6f0f58a6a ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "jiwoolee-resume.aux" 1610539630 1254 74134e2232be89288cfcaf30906f16ba "pdflatex"
-  "jiwoolee-resume.out" 1610539630 233 0c08959fcdce78c081e419a297758744 "pdflatex"
-  "jiwoolee-resume.tex" 1610539628 11761 debaa8bfa2f4e637ccaacce925fba1b4 ""
+  "backup.aux" 1610539666 1254 74134e2232be89288cfcaf30906f16ba "pdflatex"
+  "backup.out" 1610539666 233 0c08959fcdce78c081e419a297758744 "pdflatex"
+  "backup.tex" 1610539664 11761 debaa8bfa2f4e637ccaacce925fba1b4 ""
   (generated)
-  "jiwoolee-resume.out"
-  "/Users/jiwoolee/Desktop/resume/jiwoolee-resume.pdf"
-  "jiwoolee-resume.aux"
-  "jiwoolee-resume.log"
-  "jiwoolee-resume.pdf"
-  "/Users/jiwoolee/Desktop/resume/jiwoolee-resume.log"
+  "backup.pdf"
+  "backup.log"
+  "/Users/jiwoolee/Desktop/resume/backup.pdf"
+  "backup.aux"
+  "/Users/jiwoolee/Desktop/resume/backup.log"
+  "backup.out"
